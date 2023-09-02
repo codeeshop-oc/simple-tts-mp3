@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/eliangerard/text-to-mp3#readme",
   "dependencies": {
-    "google-tts-api": "^2.0.2"
+    "google-tts-api": "^2.0.2",
+    "path": "^0.12.7"
   }
 }
